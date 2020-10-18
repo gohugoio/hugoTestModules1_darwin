@@ -1,4 +1,9 @@
+github.com/gohugoio/hugoTestModules1_darwin v0.0.0-20201018084243-1b773f7d7cbd h1:LYkqc4m2QCpLFaFGnJUruhCTQoV+KzQ8z8GAHvNCOdo=
 github.com/gohugoio/hugoTestModules1_darwin/modh1_1_1v v1.3.0 h1:RrXiwXtXrYuF9RCiukN6EjOmPO1ddUgH7DfTtnAR5Dk=
 github.com/gohugoio/hugoTestModules1_darwin/modh1_1_1v v1.3.0/go.mod h1:oVNlYMy4oUsdIh8n7sEa9Yp0eWttLuyIsiUWDmgSWhg=
+github.com/gohugoio/hugoTestModules1_darwin/modh1_1_1v v1.4.0 h1:p1S+jQamgcbCHxHxGjZkvOePyDDxGMh/ydk6HqrIQJw=
+github.com/gohugoio/hugoTestModules1_darwin/modh1_1_1v v1.4.0/go.mod h1:oVNlYMy4oUsdIh8n7sEa9Yp0eWttLuyIsiUWDmgSWhg=
 github.com/gohugoio/hugoTestModules1_darwin/modh1_1_2 v1.3.0 h1:mhV4OsYKOB7zuan8B2sTEs9OeMlk+v1NT66+0qZXbbY=
 github.com/gohugoio/hugoTestModules1_darwin/modh1_1_2 v1.3.0/go.mod h1:uEzwm4n5SkbBejFZ0ugpEw3phlT7MbTLg2VVQk/y56M=
+github.com/gohugoio/hugoTestModules1_darwin/modh1_1_2 v1.4.0 h1:qEa4EGn9f+eBu04M6dCSKwqxI+9IDJ/gVZ8h9O/H5os=
+github.com/gohugoio/hugoTestModules1_darwin/modh1_1_2 v1.4.0/go.mod h1:uEzwm4n5SkbBejFZ0ugpEw3phlT7MbTLg2VVQk/y56M=
